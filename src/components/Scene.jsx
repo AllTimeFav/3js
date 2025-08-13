@@ -6,7 +6,7 @@ import { MathUtils, Vector3 } from "three"
 import BallNPC from "./Ball"
 
 
-useGLTF.preload('/models/character.glb')
+useGLTF.preload('/models/Adventurer.glb')
 
 function Lights() {
   return (
